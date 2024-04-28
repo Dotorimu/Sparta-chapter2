@@ -39,7 +39,6 @@ body {
 }
 
 
-
 .movie_list {
     display: flex; /*영화 가로로 배치*/
     flex-wrap: wrap; /*가로 폭을 초과하면 다음줄로 넘어감*/
